@@ -130,7 +130,7 @@
     <comment>AboutPage Disclaimer Title display text.</comment>
   </data>
   <data name="AboutPage_NotepadsShortDescription.Text" xml:space="preserve">
-    <value>Éditeur de texte gratuit et open source conçu et réalisé par Jackie (Jiaqi) Liu</value>
+    <value>Éditeur de texte gratuit et open source conçu et réalisé par Jackie (Jiaqi) Liu.</value>
     <comment>AboutPage NotepadsShortDescription display text.</comment>
   </data>
   <data name="AboutPage_Notepads_AuthorContactsTitle.Text" xml:space="preserve">
